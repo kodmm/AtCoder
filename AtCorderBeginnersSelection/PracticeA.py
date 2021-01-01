@@ -3,7 +3,6 @@ b, c = map(int, input().split())
 s = str(input())
 # strip(): 前後の文字を削除, lstrip(): 前の文字を削除, rstrip(): 後の文字を削除
 
-
 print(a + b + c, s)
 
 
